@@ -3,3 +3,5 @@ Hi! I'm Ngoc Mai (you can refer to me as Mai) and I am currently a bachelor stud
 I am a beginner in the Machine learning field but super eager to learn more :)
 
 My major is Signal processing and Machine learning, my minor is Computational Biology (as I am very interested in medical tech)
+
+More new personal and studying projects will be uploaded soon :) 
